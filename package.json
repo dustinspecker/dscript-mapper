@@ -1,7 +1,7 @@
 {
   "name": "dscript-mapper",
   "version": "0.0.0",
-  "description": "Map props between stateless function components between different frameworks",
+  "description": "Map models between stateless function components from different frameworks",
   "main": "lib/index.js",
   "scripts": {
     "compile": "babel src --out-dir lib",

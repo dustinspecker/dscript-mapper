@@ -3,7 +3,7 @@
 
 [![Code Climate](https://codeclimate.com/github/dustinspecker/dscript-mapper/badges/gpa.svg)](https://codeclimate.com/github/dustinspecker/dscript-mapper) [![Dependencies](https://david-dm.org/dustinspecker/dscript-mapper.svg)](https://david-dm.org/dustinspecker/dscript-mapper/#info=dependencies&view=table) [![DevDependencies](https://david-dm.org/dustinspecker/dscript-mapper/dev-status.svg)](https://david-dm.org/dustinspecker/dscript-mapper/#info=devDependencies&view=table)
 
-> Map props between stateless function components between different frameworks
+> Map models between stateless function components from different frameworks
 
 *A **naive** attempt at converting models to create framework agnostic stateless function components.*
 
