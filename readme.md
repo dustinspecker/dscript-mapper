@@ -5,7 +5,7 @@
 
 > Map models between stateless function components from different frameworks
 
-*A **naive** attempt at converting models to create framework agnostic stateless function components.*
+A ***naive*** attempt at converting models to create framework agnostic stateless function components.
 
 ## Install
 ```
