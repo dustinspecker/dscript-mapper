@@ -79,7 +79,7 @@ import {createElement} from 'react'
 
 import dekuComponent from 'maintainer-uses-deku-structure'
 
-export default dekuComponent(element)
+export default dekuComponent(createElement)
 ```
 
 ## Current Cons
