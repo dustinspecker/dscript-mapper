@@ -33,7 +33,7 @@
     "babel-register": "^6.4.3",
     "coveralls": "^2.11.6",
     "deku": "^2.0.0-rc16",
-    "dscript": "^0.1.1",
+    "dscript": "^1.0.0",
     "eslint": "^2.4.0",
     "eslint-config-dustinspecker": "^0.4.0",
     "eslint-path-formatter": "^0.1.1",

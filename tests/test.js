@@ -32,7 +32,7 @@ const dekuComponent = renderer => model => {
   return (
     ul('.list-container',
       props.items.map((item, key) =>
-        li({key}, [item.name])
+        li({key}, [item.name, 'hello'])
       )
     )
   )
@@ -46,7 +46,7 @@ const reactComponent = renderer => model => {
   return (
     ul('.list-container',
       props.items.map((item, key) =>
-        li({key}, [item.name])
+        li({key}, [item.name, 'hello'])
       )
     )
   )
