@@ -65,7 +65,7 @@ test('it should map Deku model to React model', t => {
   const reactModel = dscriptMapper.mapModelToReact(dekuModel)
 
   t.is(reactModel.count, 3)
-  t.same(reactModel.children, ['hi'])
+  t.deepEqual(reactModel.children, ['hi'])
 })
 
 test('it should map React model to Deku model', t => {
@@ -78,7 +78,7 @@ test('it should map React model to Deku model', t => {
 
   t.is(dekuModel.props.count, 3)
   t.is(dekuModel.props.children, undefined)
-  t.same(dekuModel.children, ['hi'])
+  t.deepEqual(dekuModel.children, ['hi'])
 })
 
 test('it should return same Deku model when already a Deku model', t => {
