@@ -1,7 +1,11 @@
 # dscript-mapper
-[![NPM version](https://badge.fury.io/js/dscript-mapper.svg)](https://badge.fury.io/js/dscript-mapper) [![Build Status](https://travis-ci.org/dustinspecker/dscript-mapper.svg)](https://travis-ci.org/dustinspecker/dscript-mapper) [![Coverage Status](https://img.shields.io/coveralls/dustinspecker/dscript-mapper.svg)](https://coveralls.io/r/dustinspecker/dscript-mapper?branch=master)
+[![NPM version](https://badge.fury.io/js/dscript-mapper.svg)](https://badge.fury.io/js/dscript-mapper)
+[![Build Status](https://travis-ci.org/dustinspecker/dscript-mapper.svg)](https://travis-ci.org/dustinspecker/dscript-mapper)
+[![Coverage Status](https://img.shields.io/coveralls/dustinspecker/dscript-mapper.svg)](https://coveralls.io/r/dustinspecker/dscript-mapper?branch=master)
 
-[![Code Climate](https://codeclimate.com/github/dustinspecker/dscript-mapper/badges/gpa.svg)](https://codeclimate.com/github/dustinspecker/dscript-mapper) [![Dependencies](https://david-dm.org/dustinspecker/dscript-mapper.svg)](https://david-dm.org/dustinspecker/dscript-mapper/#info=dependencies&view=table) [![DevDependencies](https://david-dm.org/dustinspecker/dscript-mapper/dev-status.svg)](https://david-dm.org/dustinspecker/dscript-mapper/#info=devDependencies&view=table)
+[![Code Climate](https://codeclimate.com/github/dustinspecker/dscript-mapper/badges/gpa.svg)](https://codeclimate.com/github/dustinspecker/dscript-mapper)
+[![Dependencies](https://david-dm.org/dustinspecker/dscript-mapper.svg)](https://david-dm.org/dustinspecker/dscript-mapper/#info=dependencies&view=table)
+[![DevDependencies](https://david-dm.org/dustinspecker/dscript-mapper/dev-status.svg)](https://david-dm.org/dustinspecker/dscript-mapper/#info=devDependencies&view=table)
 
 > Map models between stateless function components from different frameworks
 
