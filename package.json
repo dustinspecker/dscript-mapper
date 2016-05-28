@@ -35,7 +35,7 @@
     "deku": "^2.0.0-rc16",
     "dscript": "^1.0.0",
     "eslint": "^2.4.0",
-    "eslint-config-dustinspecker": "^1.0.0",
+    "eslint-config-dustinspecker": "^1.4.0",
     "eslint-path-formatter": "^0.1.1",
     "eslint-plugin-no-use-extend-native": "^0.3.1",
     "eslint-plugin-xo": "^0.4.0",
